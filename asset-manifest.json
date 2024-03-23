@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e99dc44f.css",
+    "main.js": "/static/js/main.d6d397c5.js",
+    "static/js/453.9485c575.chunk.js": "/static/js/453.9485c575.chunk.js",
+    "static/media/christian-buehner-DItYlc26zVI-unsplash.jpg": "/static/media/christian-buehner-DItYlc26zVI-unsplash.18ac3432815b591af798.jpg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/2.jpg": "/static/media/2.002bd7e225430a348e9d.jpg",
+    "static/media/work-7.jpg": "/static/media/work-7.f9b3f748582dc66d931b.jpg",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/6.jpg": "/static/media/6.748adec09dc78b5bd583.jpg",
+    "static/media/image3.jpg": "/static/media/image3.9ffdc3e709848da5f747.jpg",
+    "static/media/3.jpg": "/static/media/3.859efd4c4cc435c853de.jpg",
+    "static/media/4.jpg": "/static/media/4.04d8a372b559b1f8c769.jpg",
+    "static/media/5.jpg": "/static/media/5.f9064d3ca61b5a590356.jpg",
+    "static/media/image2.jpg": "/static/media/image2.e39107b6a618d7f8b59e.jpg",
+    "static/media/image1.jpg": "/static/media/image1.1faa31b47dbf299559f5.jpg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/1.jpg": "/static/media/1.2f753ff5054e3b03d59f.jpg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/index.html",
+    "main.e99dc44f.css.map": "/static/css/main.e99dc44f.css.map",
+    "main.d6d397c5.js.map": "/static/js/main.d6d397c5.js.map",
+    "453.9485c575.chunk.js.map": "/static/js/453.9485c575.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e99dc44f.css",
+    "static/js/main.d6d397c5.js"
+  ]
+}
