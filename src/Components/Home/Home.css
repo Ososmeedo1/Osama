@@ -1,0 +1,208 @@
+.main-home {
+  background-image: linear-gradient(rgba(0,0,0,0.8) , rgba(0,0,0,0.8)) , url(../../Assets/christian-buehner-DItYlc26zVI-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+
+.main-home .content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50% , -50%);
+  text-align: center;
+}
+
+.main-home .content h1 {
+  font-size: 70px;
+  color: #FF305B;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.main-home .content h2 {
+  color: #fff;
+}
+
+#about .content span {
+  color: #FF305B;
+}
+
+.brdr {
+  border-bottom: dashed #000 1px;
+}
+
+#about .image {
+  position: relative;
+  border: #000 solid 10px;
+  width: 50%;
+  height: 60vh;
+  border-radius: 10px;
+}
+
+#about .test {
+  top: 5%;
+}
+
+#about .image img {
+  position: relative;
+  top: 5%;
+  left: 10%;
+  border-radius: 10px;
+}
+
+#about .image .bg {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  left: 10%;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  border-radius: 10px;
+  transition: all 0.7s;
+  opacity: 0;
+}
+
+#about .image .bg .icons{
+  height: 100%;
+}
+
+#about .image:hover .bg {
+  opacity: 1;
+  top: 0;
+}
+
+
+#services h2 {
+  font-weight: bold;
+  text-align: center;
+}
+
+
+
+#services .title .line1 {
+  background-color: #FF305B;
+  width: 5%;
+  height: 1px;
+  top: 0;
+  margin: auto;
+}
+
+#services .title .line2 {
+  background-color: #FF305B;
+  width: 10%;
+  height: 1px;
+  top: 0;
+  margin: 3px auto;
+}
+
+
+#services .title .line3 {
+  background-color: #FF305B;
+  width: 5%;
+  height: 1px;
+  top: 0;
+  margin: 3px auto;
+}  
+
+#services {
+  background-color: #F1F1F1;
+}
+
+#services .content {
+  transition: all 0.3s;
+}
+
+#services .content:hover {
+  box-shadow: 10px 5px 19px -16px #000;
+  background-color: white;
+}
+
+#services .content i {
+  transition: all 0.5s;
+}
+
+#services .content:hover i {
+  transform: scale(120%);
+}
+
+#testimonial .title .line1,
+#blog .title .line1,
+#contact .title .line1,
+#portfolio .title .line1 {
+  background-color: #FF305B;
+  width: 5%;
+  height: 1px;
+  top: 0;
+  margin: auto;
+}
+
+#testimonial .title .line2,
+#blog .title .line2,
+#contact .title .line2,
+#portfolio .title .line2 {
+  background-color: #FF305B;
+  width: 10%;
+  height: 1px;
+  top: 0;
+  margin: 3px auto;
+}
+
+#testimonial .title .line3,
+#blog .title .line3,
+#contact .title .line3,
+#portfolio .title .line3 {
+  background-color: #FF305B;
+  width: 5%;
+  height: 1px;
+  top: 0;
+  margin: auto;
+}
+
+.nav ul li:hover {
+  color: #FF305B;
+}
+
+.separator {
+  background-color: #F1F1F1;
+}
+
+.carousel-item img{
+  width: 5%;
+}
+
+.carousel-item {
+  background-color: #F1F1F1;
+  border: solid #FF305B 10px;
+  border-radius: 10px;
+}
+
+#blog {
+  background-color: #F1F1F1;
+}
+
+
+#blog .row h2:hover {
+  color: #FF305B;
+}
+
+footer {
+  background-color: #333333;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 896px) {
+  #about .image {
+    border: none;
+  }
+}
+
